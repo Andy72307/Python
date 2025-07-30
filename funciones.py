@@ -7,3 +7,4 @@ def saludar():
 
 #Llamar a la funcion en el programa principal 
 saludar()
+saludar()
