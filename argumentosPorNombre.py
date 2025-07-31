@@ -8,3 +8,6 @@ imprimirPersona('Andres', 'Lagos', 18)
 
 # Llamar la funcion usando argumentos por nombre
 imprimirPersona(nombre = 'Juan', apellido = "Leon", edad = 19)
+
+# Llamar la funcion usando argumentos por nombre, pero intercambiando el orden
+imprimirPersona(edad = 48, nombre = "Sandra", apellido = 'Ballesteros')
