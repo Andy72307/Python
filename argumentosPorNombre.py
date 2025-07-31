@@ -5,3 +5,6 @@ def imprimirPersona(nombre, apellido, edad):
 
 # Llamar la funcion pasando los argumentos de manera posicional
 imprimirPersona('Andres', 'Lagos', 18)
+
+# Llamar la funcion usando argumentos por nombre
+imprimirPersona(nombre = 'Juan', apellido = "Leon", edad = 19)
