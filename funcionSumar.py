@@ -1,7 +1,7 @@
-import moduloFuncionSumar
+from moduloFuncionSumar import sumar
 
 print("*** Funcion Sumar ***")
 
 #Llamar a la funcion
-moduloFuncionSumar.sumar(54, 100)
-moduloFuncionSumar.sumar(7, 8)
+sumar(54, 100)
+sumar(7, 8)
