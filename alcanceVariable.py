@@ -20,3 +20,4 @@ def incrementarContador():
 
 # Llamar varias veces la funcion 
 incrementarContador()
+incrementarContador()
