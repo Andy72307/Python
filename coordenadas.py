@@ -7,4 +7,8 @@ def obtenerCoordenadas():
 
 # Llamar la funcion
 res = obtenerCoordenadas()
-print(res)
+
+# Unpacking de la tupla
+x, y, z = res
+
+print(f'Coordenada x: {x}, coordenada y: {y}, coordenada z: {z}')
