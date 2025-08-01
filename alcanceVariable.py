@@ -21,3 +21,6 @@ def incrementarContador():
 # Llamar varias veces la funcion 
 incrementarContador()
 incrementarContador()
+incrementarContador()
+
+print(f'Valor variable global: {contador_global}')
